@@ -15,4 +15,4 @@ jobs:
       - name: build code
         run: npm run build
       - name: Deploy code
-        run: ecgo "Deploying ..."
+        run: echo "Deploying ..."
